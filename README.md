@@ -1,2 +1,1 @@
-# RepositorioHenryPre
-PreCurso modulo 2
+Este es una prueba de creacion de repositorio.
